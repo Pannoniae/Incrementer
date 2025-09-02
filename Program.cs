@@ -20,10 +20,6 @@ namespace SplitIntIntoBytes {
 
     class Program {
 
-        static void Main(string[] args) {
-            new Test().RunTest();
-        }
-
         static void Main2(string[] args) {
             testUnion();
             testShift();
